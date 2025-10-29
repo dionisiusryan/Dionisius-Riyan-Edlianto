@@ -45,3 +45,19 @@ A versatile IT professional with 7 years of experience spanning IT Support, Full
   - Creating daily, weekly, and monthly reports as requested by the general manager.
   - Solving problems within web, desktop, and mobile applications.
   - Coordinating with the Korean IT team to resolve complex technical
+### 🚀 My Projects Showcase
+
+Silakan filter proyek saya berdasarkan kategori di bawah ini:
+
+<a href="https://github.com/dionisiusryan?tab=repositories">
+  <img src="https://img.shields.io/badge/-All%20Projects-grey?style=for-the-badge" alt="All Projects"/>
+</a>
+<a href="https://github.com/dionisiusryan?tab=repositories&q=topic:data-analysis">
+  <img src="https://img.shields.io/badge/-Data%20Analysis-blue?style=for-the-badge" alt="Data Analysis Projects"/>
+</a>
+<a href="https://github.com/dionisiusryan?tab=repositories&q=topic:full-stack">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Web-green?style=for-the-badge" alt="Full-Stack Web Projects"/>
+</a>
+<a href="https://github.com/dionisiusryan?tab=repositories&q=topic:python">
+  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge" alt="Python Projects"/>
+</a>
