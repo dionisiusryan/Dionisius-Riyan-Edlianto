@@ -50,14 +50,14 @@ A versatile IT professional with 7 years of experience spanning IT Support, Full
 Silakan filter proyek saya berdasarkan kategori di bawah ini:
 
 <a href="https://github.com/dionisiusryan?tab=repositories">
-  <img src="https://img.shields.io/badge/-All%20Projects-grey?style=for-the-badge" alt="All Projects"/>
+  <img src="https://img.shields.io/badge/-All%20Projects-grey?style=for-the-badge" alt="All Projects"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:visitor">
-  <img src="https://img.shields.io/badge/-Data%20Analysis-blue?style=for-the-badge" alt="Visitor"/>
+    <img src="https://img.shields.io/badge/-Visitor-blue?style=for-the-badge" alt="Visitor"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:ipl">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Web-green?style=for-the-badge" alt="IPL"/>
+    <img src="https://img.shields.io/badge/-IPL-green?style=for-the-badge" alt="IPL"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:siteplan-interactive">
-  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge" alt="Siteplan-Interactive"/>
+    <img src="https://img.shields.io/badge/-Siteplan%20Interactive-yellow?style=for-the-badge" alt="Siteplan-Interactive"/>
 </a>
