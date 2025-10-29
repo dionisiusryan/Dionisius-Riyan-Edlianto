@@ -47,17 +47,20 @@ A versatile IT professional with 7 years of experience spanning IT Support, Full
   - Coordinating with the Korean IT team to resolve complex technical
 ### 🚀 My Projects Showcase
 
-Silakan filter proyek saya berdasarkan kategori di bawah ini:
+Please filter my project by category in list here:
 
 <a href="https://github.com/dionisiusryan?tab=repositories">
   <img src="https://img.shields.io/badge/-All%20Projects-grey?style=for-the-badge" alt="All Projects"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:visitor">
-    <img src="https://img.shields.io/badge/-Visitor-blue?style=for-the-badge" alt="Visitor"/>
+  <img src="https://img.shields.io/badge/-Visitor-blue?style=for-the-badge" alt="Visitor"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:ipl">
-    <img src="https://img.shields.io/badge/-IPL-green?style=for-the-badge" alt="IPL"/>
+  <img src="https://img.shields.io/badge/-IPL-green?style=for-the-badge" alt="IPL"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:siteplan-interactive">
-    <img src="https://img.shields.io/badge/-Siteplan%20Interactive-yellow?style=for-the-badge" alt="Siteplan-Interactive"/>
+  <img src="https://img.shields.io/badge/-Siteplan%20Interactive-yellow?style=for-the-badge" alt="Siteplan-Interactive"/>
+</a>
+<a href="https://github.com/dionisiusryan?tab=repositories&q=topic:monitoring-stocks">
+  <img src="https://img.shields.io/badge/-Monitoring%20Stocks-purple?style=for-the-badge" alt="Monitoring-Stocks"/>
 </a>
