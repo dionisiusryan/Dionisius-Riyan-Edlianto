@@ -1,8 +1,9 @@
-# 👋 Hi! I'm Dionisius Riyan E.
+# 👋 Hi! I'm Dionisius Riyan E., M.Kom
 
 <a href="https://www.linkedin.com/in/dionisiusryane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Focus-Project%20Management%20%7C%20Full--Stack%20%7C%20ERP-blue?style=for-the-badge" alt="Focus"/>
 
-A versatile IT professional with 7 years of experience spanning IT Support, Full-Stack Development, and Data Analysis. I have a proven ability to troubleshoot complex issues, build robust software solutions, and derive actionable insights from data. I am seeking to leverage a holistic technical understanding to drive efficiency and innovation.
+A results-driven **Senior IT Specialist & Project Manager** with 7+ years of experience. I recently completed my **Master of Informatics Engineering (M.Kom)**. I specialize in bridging business needs with technical solutions, from building robust full-stack applications to managing complex ERP systems and international IT projects.
 
 ---
 
@@ -11,18 +12,21 @@ A versatile IT professional with 7 years of experience spanning IT Support, Full
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>IT & Programming</strong>
+      <strong>Development & Data</strong>
       <ul>
-        <li>IT Support</li>
-        <li>Full-Stack Web Programmer</li>
-        <li>IT Networking</li>
+        <li>Full-Stack Web (PHP, Odoo Development)</li>
+        <li>SQL Server (2016-2021) & Azure Cloud</li>
+        <li>API Testing (Postman) & Data Analysis</li>
+        <li>QA & Functional Testing</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <strong>Cloud & Platforms</strong>
+      <strong>Management & Infrastructure</strong>
       <ul>
-        <li>AWS & Google Cloud</li>
+        <li>IT Project Management (IFCA)</li>
         <li>Microsoft 365 Administration</li>
+        <li>Network LAN/WAN & Server Management</li>
+        <li>Cybersecurity Awareness (Phishing Testing)</li>
       </ul>
     </td>
   </tr>
@@ -32,34 +36,45 @@ A versatile IT professional with 7 years of experience spanning IT Support, Full
 
 ### 💼 Work Experience
 
-- **IT Project Technician** | **Genomics Clinic (PT Genomik Solidaritas Indonesia)** | 2024-Present
-Supporting joint UNDP projects, conducting functional testing of ongoing applications, creating simple programs for GSI office visitors. doing some phising testing for all employe to awarness employee about phising and providing office support for hardware, admin microsoft 365, network, and clinic web issues.
+#### 🔬 **IT Project Technician** | **GSI Lab (PT Genomik Solidaritas Indonesia)** | 2024–Present
+* **Current Focus:** Developing a **Visitor Management System** and spearheading the **Genomika website** development using **Odoo**.
+* **Global Collaboration:** Technical Support & QA lead for joint **UNDP projects**.
+* **Security:** Managing company-wide phishing simulations to enhance cybersecurity awareness.
+* **Support:** Handling Microsoft 365 Admin and expert-level hardware/network troubleshooting.
 
-- **IT Specialist** | **Property Developer (PT Mitra Realty)** | 2020-2024
-Analyzing systems and applications within the company, and updating the system and program flow if there is any discrepancy or fraud. Create a new application with the aim of making it easier for other employees to work more efficiently. Negotiate with vendors if there will be a purchase of goods or manufacture of software. Maintenance and mapping network LAN or WAN in organization
+#### 🏢 **IT Specialist & Project Manager** | **PT Mitra Realty** | 2020–2024
+* **Project Lead:** Managed the **IFCA program** implementation, bridging communications between owners and vendors.
+* **App Dev:** Created an **Environmental Management Fee (IPL)** application to automate manual processes.
+* **Finance:** Managed IT Division budgets, procurement, and vendor negotiations.
 
-- **Data Analyst** | **Loyality Program (PT Lotte Members Indonesia)** | 2019-2020
-Create report daily, weekly and monthly request by general manager. Problem solving about problem in web application, desktop application and mobile application. Coordinate with IT Korean Team, to solving a problem where Indonesian team cannot solve it.
- 
-- **IT Officer** | **Retail Distribute (PT Indomarco Adi Prima)** | 2019-2020
-Overcoming and fixing Program Bugs in the form of SQL Query scripts (SQL 2021-2016 & SQL Cloud azure). Handle problems on Ecommerce orders. by checking the logfile of data sent by ERP to Middleware. Overcoming and dealing with problems in the ERP program (SAP BW, MARS). data error, program hang, data out of sync, reconciliation etc. Implementation of new ERP programs and applications if there is a change/transfer from offline to online database. Follow up problematic transactions, especially Ecommerce orders. Prices are not updated, stock items are not updated, etc. Processing data needed by superiors, in the form of queries and suggestions. Request a weekly/monthly report on the sales value of a branch / nationally. Debug the program using SQL Profiler if there are new problems.
+#### 📊 **Data Analyst** | **PT Lotte Members Indonesia** | 2019–2020
+* **Coordination:** Collaborated with the **IT Korean Team** to resolve high-level application escalations.
+* **Reporting:** Generated daily/monthly sales analytics for the General Manager via complex SQL queries.
 
-### 🚀 My Projects Showcase
+#### 🚚 **IT Officer** | **PT Indomarco Adi Prima** | 2019–2020
+* **ERP & SQL:** Resolved bugs in **SAP BW & MARS** using SQL Profiler; managed e-commerce orders for **idmarco**.
+* **Leadership:** Managed EDP teams for **Area 3 stockpoints** and led database migrations (Offline to Cloud).
 
-Please filter my project by category in list here:
+---
+
+### 🚀 Projects Showcase
+
+Filter my repositories by clicking the tags below:
 
 <a href="https://github.com/dionisiusryan?tab=repositories">
-  <img src="https://img.shields.io/badge/-All%20Projects-grey?style=for-the-badge" alt="All Projects"/>
+  <img src="https://img.shields.io/badge/-All%20Projects-grey?style=for-the-badge" alt="All Projects"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:visitor">
-  <img src="https://img.shields.io/badge/-Visitor-blue?style=for-the-badge" alt="Visitor"/>
+  <img src="https://img.shields.io/badge/-Visitor--System-blue?style=for-the-badge" alt="Visitor"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:ipl">
-  <img src="https://img.shields.io/badge/-IPL-green?style=for-the-badge" alt="IPL"/>
+  <img src="https://img.shields.io/badge/-IPL--Management-green?style=for-the-badge" alt="IPL"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:siteplan-interactive">
-  <img src="https://img.shields.io/badge/-Siteplan%20Interactive-yellow?style=for-the-badge" alt="Siteplan-Interactive"/>
+  <img src="https://img.shields.io/badge/-Interactive--Siteplan-yellow?style=for-the-badge" alt="Siteplan-Interactive"/>
 </a>
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:monitoring-stocks">
-  <img src="https://img.shields.io/badge/-Monitoring%20Stocks-purple?style=for-the-badge" alt="Monitoring-Stocks"/>
+  <img src="https://img.shields.io/badge/-Stock--Monitoring-purple?style=for-the-badge" alt="Monitoring-Stocks"/>
 </a>
+
+---
