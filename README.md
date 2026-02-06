@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/dionisiusryane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Focus-Project%20Management%20%7C%20Full--Stack%20%7C%20ERP-blue?style=for-the-badge" alt="Focus"/>
 
-A results-driven **Senior IT Specialist & Project Manager** with 7+ years of experience. I recently completed my **Master of Informatics Engineering (M.Kom)**. I specialize in bridging business needs with technical solutions, from building robust full-stack applications to managing complex ERP systems and international IT projects.
+A results-driven **Senior IT Specialist** with 7+ years of experience. I recently completed my **Master of Informatics Engineering (M.Kom)**. I specialize in bridging business needs with technical solutions, from building robust full-stack applications to managing complex ERP systems and international IT projects.
 
 ---
 
