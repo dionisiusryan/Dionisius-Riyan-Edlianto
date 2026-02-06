@@ -38,7 +38,7 @@ A results-driven **Senior IT Specialist & Project Manager** with 7+ years of exp
 
 #### 🔬 **IT Project Technician** | **GSI Lab (PT Genomik Solidaritas Indonesia)** | 2024–Present
 * **Current Focus:** Developing a **Visitor Management System** and spearheading the **Genomika website** development using **Odoo**.
-* **Global Collaboration:** Technical Support & QA lead for joint **UNDP projects**.
+* **Global Collaboration:** Technical Support & QA Regression & Functional Testing for joint **UNDP projects**.
 * **Security:** Managing company-wide phishing simulations to enhance cybersecurity awareness.
 * **Support:** Handling Microsoft 365 Admin and expert-level hardware/network troubleshooting.
 
