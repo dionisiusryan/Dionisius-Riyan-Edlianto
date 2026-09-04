@@ -76,7 +76,7 @@ Filter my repositories by clicking the tags below:
 <a href="https://github.com/dionisiusryan?tab=repositories&q=topic:monitoring-stocks">
   <img src="https://img.shields.io/badge/-Stock--Monitoring-purple?style=for-the-badge" alt="Monitoring-Stocks"/>
 </a>
-<a href="https://github.com/dionisiusryan?tab=repositories&q=topic:hermes-agent">
+<a href="https://github.com/dionisiusryan?tab=repositories&q=topic:ai-agent">
   <img src="https://img.shields.io/badge/-Hermes--Agent-orange?style=for-the-badge" alt="Hermes-Agent"/>
 </a>
 ---
