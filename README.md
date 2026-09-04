@@ -9,12 +9,15 @@ A results-driven **Senior IT Specialist** with 7+ years of experience. I recentl
 
 ### 🔧 Skills & Technologies
 
+<!-- TABEL SKILLS & TECHNOLOGIES -->
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Development & Data</strong>
+      <strong>Development & AI Engineering</strong>
       <ul>
         <li>Full-Stack Web (PHP, Odoo Development)</li>
+        <li>AI Workflows (Hermes Agent, Langflow, IBM Bob)</li>
+        <li>Telegram Bot Development & Automation</li>
         <li>SQL Server (2016-2021) & Azure Cloud</li>
         <li>API Testing (Postman) & Data Analysis</li>
         <li>QA & Functional Testing</li>
@@ -24,6 +27,7 @@ A results-driven **Senior IT Specialist** with 7+ years of experience. I recentl
       <strong>Management & Infrastructure</strong>
       <ul>
         <li>IT Project Management (IFCA)</li>
+        <li>Cloud Deployment (Railway, Webhooks)</li>
         <li>Microsoft 365 Administration</li>
         <li>Network LAN/WAN & Server Management</li>
         <li>Cybersecurity Awareness (Phishing Testing)</li>
