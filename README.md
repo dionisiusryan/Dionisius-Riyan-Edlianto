@@ -83,4 +83,6 @@ Filter my repositories by clicking the tags below:
 <a href="https://github.com/dionisiusryan?tab=repositories&q=ai-agent">
   <img src="https://img.shields.io/badge/-AI--Agent & Workflow-orange?style=for-the-badge" alt="AI-Agent"/>
 </a>
----
+<a href="https://github.com/dionisiusryan?tab=repositories&q=Worker-Stress-Early-Warning-System">
+  <img src="https://img.shields.io/badge/-WOSWAS--Apps-brown?style=for-the-badge" alt="AI-Agent"/>
+</a>
