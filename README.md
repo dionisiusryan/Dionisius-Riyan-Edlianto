@@ -7,7 +7,7 @@
 
 **IT problem-solver with 7+ years of experience** turning operational pain points into reliable, automated systems.
 
-I tend to end up owning the things nobody else has picked up yet — the missing QA function, the visitor system that didn't exist, the security-awareness programme nobody had started — and shipping them at minimal or zero added cost. Most recently as **Technical Lead** on a **UNDP** project delivered together with **CSIRO Bioinformatics (Australia)** and **Xapiens Technology**.
+I tend to end up owning the things nobody else has picked up yet — the missing QA function, the visitor system that didn't exist, the security-awareness programme nobody had started — and shipping them at minimal or zero added cost. Most recently as **Technical Project** on a **UNDP** project delivered together with **CSIRO Bioinformatics (Australia)** and **Xapiens Technology**.
 
 Master of Informatics Engineering (M.Kom), GPA 3.75.
 
@@ -56,10 +56,10 @@ Master of Informatics Engineering (M.Kom), GPA 3.75.
 
 ### 💼 Work Experience
 
-#### 🔬 IT Technical Lead &amp; Developer — GSI Lab (PT Genomik Solidaritas Indonesia) · 2024–Present
+#### 🔬 IT Technical Project &amp; Developer — GSI Lab (PT Genomik Solidaritas Indonesia) · 2024–Present
 > *Clinical laboratory &amp; clinic, Indika Energy Group*
 
-* **Technical Lead, UNDP project.** Owned technical resolution across the application and its AWS environment, and acted as the direct escalation channel to the Australian (CSIRO) team for defects neither GSI nor Xapiens could resolve.
+* **Technical Project, UNDP project.** Owned technical resolution across the application and its AWS environment, and acted as the direct escalation channel to the Australian (CSIRO) team for defects neither GSI nor Xapiens could resolve.
 * **Closed the QA gap at zero added headcount.** With no QA function in place, took over test design, defect triage and regression checks myself.
 * **Built the Visitor Management System from nothing.** Dashboard + Barantum WhatsApp API integration that auto-notifies the host on arrival — every visit now traceable.
 * **Built "Hermes," an AI agent for first-line support.** LLM agent on Telegram with structured `skill.md` playbooks, resolving common staff issues independently.
